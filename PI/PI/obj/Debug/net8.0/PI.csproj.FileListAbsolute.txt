@@ -1,0 +1,14 @@
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\bin\Debug\net8.0\PI.exe
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\bin\Debug\net8.0\PI.deps.json
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\bin\Debug\net8.0\PI.runtimeconfig.json
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\bin\Debug\net8.0\PI.dll
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\bin\Debug\net8.0\PI.pdb
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.AssemblyInfoInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.AssemblyInfo.cs
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.dll
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\refint\PI.dll
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.pdb
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\PI.genruntimeconfig.cache
+\\servidor\alunos\Jocimar Silva\C#\PI\PI\obj\Debug\net8.0\ref\PI.dll
