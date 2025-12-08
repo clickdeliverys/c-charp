@@ -1,0 +1,14 @@
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\bin\Debug\net8.0\Cálculo de Soma.exe
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\bin\Debug\net8.0\Cálculo de Soma.deps.json
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\bin\Debug\net8.0\Cálculo de Soma.runtimeconfig.json
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\bin\Debug\net8.0\Cálculo de Soma.dll
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\bin\Debug\net8.0\Cálculo de Soma.pdb
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.AssemblyInfoInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.AssemblyInfo.cs
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.dll
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\refint\Cálculo de Soma.dll
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.pdb
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\Cálculo de Soma.genruntimeconfig.cache
+\\servidor\alunos\Jocimar Silva\C#\Cálculo de Soma\Cálculo de Soma\obj\Debug\net8.0\ref\Cálculo de Soma.dll
