@@ -1,0 +1,14 @@
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\bin\Debug\net10.0\Pagina de Login - Senha Oculta.exe
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\bin\Debug\net10.0\Pagina de Login - Senha Oculta.deps.json
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\bin\Debug\net10.0\Pagina de Login - Senha Oculta.runtimeconfig.json
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\bin\Debug\net10.0\Pagina de Login - Senha Oculta.dll
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\bin\Debug\net10.0\Pagina de Login - Senha Oculta.pdb
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.AssemblyInfoInputs.cache
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.AssemblyInfo.cs
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.csproj.CoreCompileInputs.cache
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.dll
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\refint\Pagina de Login - Senha Oculta.dll
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.pdb
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\Pagina de Login - Senha Oculta.genruntimeconfig.cache
+C:\Users\Pulsenet\Desktop\Pagina de Login - Senha Oculta\Pagina de Login - Senha Oculta\obj\Debug\net10.0\ref\Pagina de Login - Senha Oculta.dll

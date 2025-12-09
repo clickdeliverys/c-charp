@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pagina de Login - Senha Oculta/1.0.0": {
+        "runtime": {
+          "Pagina de Login - Senha Oculta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pagina de Login - Senha Oculta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
