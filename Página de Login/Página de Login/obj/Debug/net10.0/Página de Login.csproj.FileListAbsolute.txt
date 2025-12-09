@@ -1,0 +1,14 @@
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\bin\Debug\net10.0\Página de Login.exe
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\bin\Debug\net10.0\Página de Login.deps.json
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\bin\Debug\net10.0\Página de Login.runtimeconfig.json
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\bin\Debug\net10.0\Página de Login.dll
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\bin\Debug\net10.0\Página de Login.pdb
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.AssemblyInfoInputs.cache
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.AssemblyInfo.cs
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.csproj.CoreCompileInputs.cache
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.dll
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\refint\Página de Login.dll
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.pdb
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\Página de Login.genruntimeconfig.cache
+C:\Users\Pulsenet\Desktop\Página de Login\Página de Login\obj\Debug\net10.0\ref\Página de Login.dll
