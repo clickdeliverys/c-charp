@@ -1,0 +1,4 @@
+\\servidor\alunos\Jocimar Silva\Soma\Soma\obj\Debug\net8.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Jocimar Silva\Soma\Soma\obj\Debug\net8.0\Soma.AssemblyInfoInputs.cache
+\\servidor\alunos\Jocimar Silva\Soma\Soma\obj\Debug\net8.0\Soma.AssemblyInfo.cs
+\\servidor\alunos\Jocimar Silva\Soma\Soma\obj\Debug\net8.0\Soma.csproj.CoreCompileInputs.cache

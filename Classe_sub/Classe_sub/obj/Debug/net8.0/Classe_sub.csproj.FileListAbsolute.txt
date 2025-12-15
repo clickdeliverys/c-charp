@@ -1,0 +1,14 @@
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.AssemblyInfoInputs.cache
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.AssemblyInfo.cs
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\bin\Debug\net8.0\Classe_sub.exe
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\bin\Debug\net8.0\Classe_sub.deps.json
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\bin\Debug\net8.0\Classe_sub.runtimeconfig.json
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\bin\Debug\net8.0\Classe_sub.dll
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\bin\Debug\net8.0\Classe_sub.pdb
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.dll
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\refint\Classe_sub.dll
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.pdb
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\Classe_sub.genruntimeconfig.cache
+\\servidor\alunos\Jocimar Silva\Classe_sub\Classe_sub\obj\Debug\net8.0\ref\Classe_sub.dll
