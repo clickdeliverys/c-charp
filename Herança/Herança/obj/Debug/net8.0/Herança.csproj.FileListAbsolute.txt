@@ -1,0 +1,14 @@
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\bin\Debug\net8.0\Herança.exe
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\bin\Debug\net8.0\Herança.deps.json
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\bin\Debug\net8.0\Herança.runtimeconfig.json
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\bin\Debug\net8.0\Herança.dll
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\bin\Debug\net8.0\Herança.pdb
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.dll
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\refint\Herança.dll
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.pdb
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\Herança.genruntimeconfig.cache
+\\servidor\alunos\Jocimar Silva\C#\Herança\Herança\obj\Debug\net8.0\ref\Herança.dll
