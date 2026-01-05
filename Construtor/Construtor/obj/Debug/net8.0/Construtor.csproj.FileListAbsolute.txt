@@ -1,0 +1,4 @@
+\\servidor\alunos\Jocimar Silva\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\alunos\Jocimar Silva\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfoInputs.cache
+\\servidor\alunos\Jocimar Silva\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfo.cs
+\\servidor\alunos\Jocimar Silva\C#\Construtor\Construtor\obj\Debug\net8.0\Construtor.csproj.CoreCompileInputs.cache
